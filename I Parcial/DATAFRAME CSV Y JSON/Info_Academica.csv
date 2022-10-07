@@ -1,0 +1,28 @@
+id,Maestro,asignatura,Seccion,Hora,Espacio,Unidad_Valorativa_Clase,Capacidad
+1,Jacinda,Matematicas I,2,12:42 PM,EDIFICIO E1,3,50
+2,Elston,Trigonometria,1,12:42 PM,EDIFICIO E2,4,33
+3,Tasia,Bases de Datos I,1,12:59 PM,EDIFICIO B1,3,17
+4,Ches,Bases de Datos II,3,1:25 PM,EDIFICIO B2,4,2
+5,Elysee,Redes I,1,5:29 PM,EDIFICIO D1,1,31
+6,Virgilio,Redes II,3,11:41 AM,EDIFICIO D2,2,34
+7,Woodman,Programacion I,2,3:51 PM,EDIFICIO A1,2,8
+8,Abrahan,Programacion II,2,3:20 PM,EDIFICIO A2,3,35
+9,Wiley,Programacion orientada a objetos,3,11:59 AM,EDIFICIO C1,2,5
+10,Maurise,Circuitos,3,7:09 AM,EDIFICIO C2,1,33
+11,Andria,Gerencia,3,9:47 AM,EDIFICIO H,3,17
+12,Jethro,Economia Digital,1,9:30 AM,EDIFICIO G,4,5
+13,Yard,Inteligencia Artificial,2,10:03 AM,AUDITORIO,1,12
+14,Tatum,Instalaciones Electricas,3,4:39 PM,EDIFICIO E1,1,33
+15,Vanya,Analisis y Diseño,3,9:42 AM,EDIFICIO E2,4,7
+16,Paddie,Sistemas de informacion,1,10:15 AM,EDIFICIO B1,4,40
+17,Maybelle,Seminario,3,12:06 PM,EDIFICIO B2,1,43
+18,Zelma,Filosofia,3,8:43 AM,EDIFICIO D1,1,44
+19,Waiter,Lenguajes de Programacion,3,12:54 PM,EDIFICIO D2,4,3
+20,Babbette,Sistemas de expertos,1,7:50 AM,EDIFICIO A1,3,21
+21,Trish,Diseño digital,3,10:21 AM,EDIFICIO A2,1,8
+22,Kiel,Finanzas,3,3:55 PM,EDIFICIO C1,2,19
+23,Tiffany,Historia,3,1:55 PM,EDIFICIO C2,3,22
+24,Bidget,Español,2,3:55 PM,EDIFICIO H,3,25
+25,Miof mela,Sociologia,3,7:24 AM,EDIFICIO G,1,8
+26,Herta,Compiladores,1,11:00 AM,AUDITORIO,4,12
+27,Susanetta,Liderazgo,3,1:06 PM,EDIFICIO E1,1,27
